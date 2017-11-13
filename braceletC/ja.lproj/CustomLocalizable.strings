@@ -1,0 +1,118 @@
+/* 
+  CustomLocalizable.strings
+  braceletC
+
+  Created by mibo02 on 17/4/10.
+  Copyright © 2017年 张亚峰. All rights reserved.
+*/
+"showText" = "Bluetooth 設定画面移動します。";
+//语言
+"showlanage" = "言語";
+//设置
+"settingText"= "OK";
+//
+"zhendongText"="振動設定";
+//
+"yuyanText"="言語設定";
+//
+"dianchiText" = "電池残量確認";
+
+"huifuText" = "初期状態に戻す";
+
+"settingsText" = "設定";
+//
+"oksettingText" = "   初期状態に戻します。             よろしいですか？";
+
+//
+"okText" = "OK";
+"cancelText" = "キャンセル";
+//
+"zhendongceshiText" = "着信テスト";
+
+"jishiText" = "タイマー設定";
+"dianhualaidianText" = "電話着信";
+"fangdiuText"= "置き忘れ防止";
+"qitaText" = "その他の通知";
+
+"lianjieText" = "製品と接続";
+"titleText" = "ホーム";
+//其他
+"othersetText" = "その他通知振動設定";
+"numerText" = "通知振動回数";
+"timerText" = "タイマー設定";
+//电话来电震动设置
+"phonecomeText" = "電話着信振動設定";
+//
+"comcomText" = "電話応答するまで振動する";
+"goonText" = "続けます";
+
+"stopText" = "キャンセル";
+//次数
+"onetime" = "1回";
+"twotime" = "2回";
+"threetime" = "3回";
+"fourtime" = "4回";
+"fivetime" = "5回";
+"sixtime" =  "6回";
+//
+"beginText" = "スタート";
+//时
+"hourText" = "時";
+"minuteText" = "分";
+"miaoText" = "秒";
+
+//
+"begintime" = "スタート";
+//闹钟
+"naozhong" = "アラーム";
+//闹钟响了
+"nnaozhongbegin" = "目覚まし時計が鳴りました";
+//时间到了
+"timeison" = "時間がアップしています";
+//未找到相关设备
+"nofind" = "設定が見つかりません";
+
+//编辑
+"editstr" ="編集します";
+
+//完成;
+"complestr" = "完成";
+
+//存储
+"savestr" = "保存";
+"ristr" ="毎日曜日";
+"firstday" = "毎月曜日";
+"secondday"="毎火曜日";
+"thirdday"="毎水曜日";
+"fourday"="毎木曜日";
+"fiveday"="毎金曜日";
+"sixday"="毎土曜日";
+
+"everyday"="毎日";
+"endstr"="週末";
+"gongzuostr"="作業日";
+//重复
+"morestr"="繰り返し";
+"biaoqianstr"="タグ";
+
+
+"successstr"="接続しました";
+
+"shangwu"="朝";
+"xiawu"="午後";
+
+"biaoqian"="タグ";
+
+
+
+
+
+
+
+
+
+
+
+
+
+

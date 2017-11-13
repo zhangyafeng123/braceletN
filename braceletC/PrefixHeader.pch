@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  braceletC
+//
+//  Created by mibo02 on 17/4/9.
+//  Copyright © 2017年 张亚峰. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <CoreBluetooth/CoreBluetooth.h>
+#import <MZTimerLabel.h>
+#import "MBProgressHUD.h"
+#import "MBProgressHUD+MJ.h"
+#import "UIView+Extension.h"
+#import "UIBarButtonItem+Extension.h"
+#import "UIViewController+FullScreen.h"
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,106 @@
+/* 
+  CustomLocalizable.strings
+  braceletC
+
+  Created by mibo02 on 17/4/10.
+  Copyright © 2017年 张亚峰. All rights reserved.
+*/
+//设置蓝牙
+"showText" = "this app want to open Bluetooth";
+//语言
+"showlanage" = "Native language";
+//设置
+"settingText" = "OK";
+//
+"zhendongText" = "Vibration setting";
+
+"yuyanText" = "Language";
+
+"dianchiText" = "battery volume test";
+
+"huifuText" = "Restore the default settings";
+
+"settingsText" = "Configuration";
+
+"oksettingText" = "Would you like to restore the default settings?";
+
+//
+"okText" = "ok";
+"cancelText" = "cancel";
+"zhendongceshiText" = "Vibration test";
+"jishiText" = "Time placement";
+"dianhualaidianText" = "Incoming call";
+"fangdiuText"= "Anti lost";
+"qitaText" = "Notice";
+"lianjieText" = "Connect to Vibration unit";
+"titleText" = "Main page";
+//其他
+"othersetText" = "Other notification settings";
+//
+"numerText" = "Number of notification vibration";
+
+"timerText" = "Timer setting";
+
+"phonecomeText" = "Incoming call vibration setting";
+
+"comcomText" = "Vibrate until answer the phone";
+
+"stopText" = "time out";
+"goonText" = "carry on";
+//次数
+"onetime" = "1time";
+"twotime" = "2times";
+"threetime" = "3times";
+"fourtime" = "4times";
+"fivetime" = "5times";
+"sixtime" =  "6times";
+"beginText" = "Start";
+//时
+"hourText" = "h";
+"minuteText" = "m";
+"miaoText" = "ms";
+
+"begintime" = "start";
+//闹钟
+"naozhong" = "Alarm clock";
+
+//闹钟响了
+"nnaozhongbegin" = "The alarm clock rang";
+
+//时间到了
+"timeison" = "Time is up";
+//未找到相关设备
+"nofind" = "not found the related device";
+
+//编辑
+"editstr" ="edit";
+
+//完成
+"complestr" = "carry out";
+
+//存储
+"savestr" = "save";
+"ristr" ="Sunday";
+"firstday" = "Monday";
+"secondday"="Tuesday";
+"thirdday"="Wednesday";
+"fourday"="Thursday";
+"fiveday"="Friday";
+"sixday"="Saturday";
+
+"everyday"="every day";
+"endstr"="weekend";
+"gongzuostr"="Working day";
+//重复
+"morestr"="duplicate";
+"biaoqianstr"="label";
+
+"successstr"="successfully connected";
+
+"shangwu"="morning";
+"xiawu"="afternoon";
+
+"biaoqian"="label";
+
+
+

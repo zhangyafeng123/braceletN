@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MZTimerLabel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods-braceletC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-braceletCTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-braceletCUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>073C3D00168319CD4ED21C459188B43A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4745692AE1A089A9C1675D9A62F72D95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7E8DCAF26D7980A061EFEAB9C7CED3A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B180241C64C8328694E67BDDD9D432E2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

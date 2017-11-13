@@ -1,0 +1,113 @@
+/* 
+  CustomLocalizable.strings
+  braceletC
+
+  Created by mibo02 on 17/4/10.
+  Copyright © 2017年 张亚峰. All rights reserved.
+*/
+"showText" = "现在打开蓝牙";
+//语言
+"showlanage" = "语言";
+
+"settingText"= "OK";
+
+"zhendongText"="震动设置";
+
+"yuyanText"="语言设置";
+
+"dianchiText" = "电池电量检测";
+
+"huifuText" = "恢复出厂设置";
+
+"settingsText" = "设置";
+
+"oksettingText" = "确认恢复出厂设置吗？";
+
+"okText" = "确定";
+
+"cancelText" = "取消";
+
+"zhendongceshiText" = "震动测试";
+
+"jishiText" = "计时设置";
+
+"dianhualaidianText" = "电话来电";
+
+"fangdiuText"= "防丢功能";
+
+"qitaText" = "其他通知";
+
+"lianjieText" = "连接振动器";
+
+"titleText" = "首页";
+
+"othersetText" = "其他通知的震动设置";
+"numerText" = "通知的震动次数";
+"timerText" = "计时设置";
+"phonecomeText" = "电话来电震动设置";
+
+"comcomText" = "电话应答前持续震动";
+
+"stopText" = "计时停止";
+"goonText" = "继续";
+//次数
+"onetime" = "1次";
+"twotime" = "2次";
+"threetime" = "3次";
+"fourtime" = "4次";
+"fivetime" = "5次";
+"sixtime" = "6次";
+"beginText" = "开始";
+
+//时
+"hourText" = "时";
+"minuteText" = "分";
+"stopText" = "暂停";
+//
+"begintime" = "继续";
+//闹钟
+"naozhong" = "闹钟";
+
+//闹钟响了
+"nnaozhongbegin" = "闹钟响了";
+//时间到了
+"timeison" = "时间到了";
+//未找到相关设备
+"nofind" = "未找到相关设备";
+
+//编辑
+"editstr" ="编辑";
+//完成
+"complestr" = "完成";
+
+//存储
+"savestr" = "存储";
+"ristr" ="每周日";
+"firstday" = "每周一";
+"secondday"="每周二";
+"thirdday"="每周三";
+"fourday"="每周四";
+"fiveday"="每周五";
+"sixday"="每周六";
+"everyday"="每天";
+"endstr"="周末";
+"gongzuostr"="工作日";
+
+//重复
+"morestr"="重复";
+"biaoqianstr"="标签";
+"successstr"="设备连接成功!";
+
+
+
+"shangwu"="上午";
+"xiawu"="下午";
+
+"biaoqian"="标签";
+
+
+
+
+
+
+

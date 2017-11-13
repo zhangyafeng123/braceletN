@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="numberView">
+            <rect key="frame" x="0.0" y="0.0" width="120" height="220"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" tag="101" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="emg-Y0-zFM">
+                    <rect key="frame" x="0.0" y="0.0" width="120" height="36.5"/>
+                    <state key="normal" title="1次">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="103" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r8f-xt-9ST">
+                    <rect key="frame" x="0.0" y="73.5" width="120" height="36.5"/>
+                    <state key="normal" title="3次">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="104" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j4H-wl-RU9">
+                    <rect key="frame" x="0.0" y="110" width="120" height="36.5"/>
+                    <state key="normal" title="4次">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="105" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iMB-iZ-BSO">
+                    <rect key="frame" x="0.0" y="146.5" width="120" height="37"/>
+                    <state key="normal" title="5次">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="102" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pab-Ns-apK">
+                    <rect key="frame" x="0.0" y="36.5" width="120" height="37"/>
+                    <state key="normal" title="2次">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="106" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N3x-4h-OFX">
+                    <rect key="frame" x="0.0" y="183.5" width="120" height="36.5"/>
+                    <state key="normal" title="6次">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="pab-Ns-apK" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="12j-rk-SPf"/>
+                <constraint firstItem="iMB-iZ-BSO" firstAttribute="height" secondItem="emg-Y0-zFM" secondAttribute="height" id="7wv-jT-yte"/>
+                <constraint firstAttribute="trailing" secondItem="r8f-xt-9ST" secondAttribute="trailing" id="8Vn-Yi-WlB"/>
+                <constraint firstItem="iMB-iZ-BSO" firstAttribute="width" secondItem="emg-Y0-zFM" secondAttribute="width" id="999-8b-QcJ"/>
+                <constraint firstItem="pab-Ns-apK" firstAttribute="width" secondItem="emg-Y0-zFM" secondAttribute="width" id="Cqe-GR-iDx"/>
+                <constraint firstItem="emg-Y0-zFM" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="GHT-d5-dNi"/>
+                <constraint firstAttribute="trailing" secondItem="iMB-iZ-BSO" secondAttribute="trailing" id="H1O-Yi-aJS"/>
+                <constraint firstItem="N3x-4h-OFX" firstAttribute="height" secondItem="emg-Y0-zFM" secondAttribute="height" id="J11-r3-USe"/>
+                <constraint firstItem="N3x-4h-OFX" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="LdG-CF-8dx"/>
+                <constraint firstAttribute="trailing" secondItem="N3x-4h-OFX" secondAttribute="trailing" id="Mo1-3v-UnQ"/>
+                <constraint firstItem="N3x-4h-OFX" firstAttribute="width" secondItem="emg-Y0-zFM" secondAttribute="width" id="NpU-BU-U8O"/>
+                <constraint firstAttribute="trailing" secondItem="j4H-wl-RU9" secondAttribute="trailing" id="Q7w-Iu-M3f"/>
+                <constraint firstItem="iMB-iZ-BSO" firstAttribute="top" secondItem="j4H-wl-RU9" secondAttribute="bottom" id="Xcq-Z7-v0l"/>
+                <constraint firstItem="r8f-xt-9ST" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ZCH-bH-L4O"/>
+                <constraint firstItem="j4H-wl-RU9" firstAttribute="height" secondItem="emg-Y0-zFM" secondAttribute="height" id="bGU-WT-75p"/>
+                <constraint firstItem="pab-Ns-apK" firstAttribute="top" secondItem="emg-Y0-zFM" secondAttribute="bottom" id="di9-g7-q13"/>
+                <constraint firstAttribute="trailing" secondItem="pab-Ns-apK" secondAttribute="trailing" id="h3x-DD-2kZ"/>
+                <constraint firstItem="r8f-xt-9ST" firstAttribute="height" secondItem="emg-Y0-zFM" secondAttribute="height" id="ioP-36-xuU"/>
+                <constraint firstItem="j4H-wl-RU9" firstAttribute="top" secondItem="r8f-xt-9ST" secondAttribute="bottom" id="krq-5b-xuD"/>
+                <constraint firstItem="j4H-wl-RU9" firstAttribute="width" secondItem="emg-Y0-zFM" secondAttribute="width" id="nOh-Ih-L34"/>
+                <constraint firstItem="N3x-4h-OFX" firstAttribute="top" secondItem="iMB-iZ-BSO" secondAttribute="bottom" id="pgf-Id-cen"/>
+                <constraint firstAttribute="trailing" secondItem="emg-Y0-zFM" secondAttribute="trailing" id="rRK-Qu-A7E"/>
+                <constraint firstItem="r8f-xt-9ST" firstAttribute="top" secondItem="pab-Ns-apK" secondAttribute="bottom" id="ruI-Xb-CzF"/>
+                <constraint firstItem="j4H-wl-RU9" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="tBX-1r-pjW"/>
+                <constraint firstItem="iMB-iZ-BSO" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="tJH-aU-lL9"/>
+                <constraint firstItem="r8f-xt-9ST" firstAttribute="width" secondItem="emg-Y0-zFM" secondAttribute="width" id="tWu-lu-5q2"/>
+                <constraint firstItem="pab-Ns-apK" firstAttribute="height" secondItem="emg-Y0-zFM" secondAttribute="height" id="wWG-Wy-Gnz"/>
+                <constraint firstAttribute="bottom" secondItem="N3x-4h-OFX" secondAttribute="bottom" id="wyF-ga-taC"/>
+                <constraint firstItem="emg-Y0-zFM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="y1i-fF-mW5"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="firstbtn" destination="emg-Y0-zFM" id="iDx-8w-up9"/>
+                <outlet property="fivebtn" destination="iMB-iZ-BSO" id="fA5-QM-3zt"/>
+                <outlet property="fourbtn" destination="j4H-wl-RU9" id="SLc-AB-wuQ"/>
+                <outlet property="secondbtn" destination="pab-Ns-apK" id="MtL-Ve-5KT"/>
+                <outlet property="sixbtn" destination="N3x-4h-OFX" id="zzt-Ys-mCo"/>
+                <outlet property="threebtn" destination="r8f-xt-9ST" id="gpN-IW-aUA"/>
+            </connections>
+            <point key="canvasLocation" x="25" y="74.5"/>
+        </view>
+    </objects>
+</document>
